@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calender</string>
+
+    <string name="save">Save</string>
+    <string name="eventName">Event Name</string>
+    <string name="startTime">Start time</string>
+    <string name="endTime">End time</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="notifyMe">Notify me</string>
+    <string name="notes">Enter Notes</string>
+    <string name="myCalender">My Calender</string>
+
+    <string name="startTimeHint">3:30 PM</string>
+    <string name="endTimeHint">5:00 PM</string>
+    <string name="dateHint">July 27, 2017</string>
+    <string name="locationHint">ABC Location</string>
+
+    <string name="nextReleaseMsg">This functionality will be added in next release</string>
+    <string name="ok">OK</string>
+
+    <string name="label_login">sign in</string>
+    <string name="str_login_hint">Login</string>
+    <string name="str_password_hint">Password</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="add">Add</string>
+
+</resources>

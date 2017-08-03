@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="seperatorHeight">0.5dp</dimen>
+    <dimen name="spacing">2dp</dimen>
+
+    <dimen name="paddingSmall">5dp</dimen>
+    <dimen name="paddingNormal">10dp</dimen>
+    <dimen name="paddingStandard">15dp</dimen>
+    <dimen name="paddingLarge">20dp</dimen>
+    <dimen name="paddingXLarge">30dp</dimen>
+
+    <dimen name="tsSmall">5sp</dimen>
+    <dimen name="tsNormal">10sp</dimen>
+    <dimen name="tsStandard">15sp</dimen>
+    <dimen name="tsLarge">20sp</dimen>
+    <dimen name="tsXLarge">30sp</dimen>
+
+</resources>
